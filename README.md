@@ -25,6 +25,6 @@ By default, the following ports are exposed:
 
 * Prometheus: 9090
 * Grafana 3000
-* cAdvisor: 8080
+* cAdvisor: 8081
 
 These ports can be customized via the environment variables (or .env file entries) `PROMETHEUS_PORT`, `GRAFANA_PORT`, and `CADVISOR_PORT`, respectively.
